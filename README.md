@@ -9,3 +9,11 @@ The following is a sample of the settings (screen ratio: 1920x1080):
 
 
 For reference only; adjustments may be needed depending on your individual screen model.
+
+Instructions:
+1. Move the mouse to the top left corner of the area you want to detect.
+2. Move the mouse to the bottom right corner of the area you want to detect.
+3. The program has already calculated the range for you; refer to the image above for parameters (fastest speed).
+4. Press Start and enjoy cheating.
+
+**Reminder: Press F8 to stop.**
