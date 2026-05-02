@@ -1,4 +1,4 @@
-# Target Image Detection Auto Clicker
+# Aim Trainer cheat
 
 A desktop utility that searches a selected screen area for one or more target images, then moves the mouse to the center of the best-matching image and clicks it.
 
